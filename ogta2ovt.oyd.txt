@@ -1,0 +1,58 @@
+﻿InitialImport
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   .gitignore
+#	new file:   .idea/.name
+#	new file:   .idea/compiler.xml
+#	new file:   .idea/copyright/profiles_settings.xml
+#	new file:   .idea/encodings.xml
+#	new file:   .idea/gradle.xml
+#	new file:   .idea/libraries/support_v4_19_1_0.xml
+#	new file:   .idea/misc.xml
+#	new file:   .idea/modules.xml
+#	new file:   .idea/scopes/scope_settings.xml
+#	new file:   .idea/vcs.xml
+#	new file:   app/.gitignore
+#	new file:   app/app.iml
+#	new file:   app/build.gradle
+#	new file:   app/proguard-rules.pro
+#	new file:   app/src/androidTest/java/de/spielplatzkarte/test/spielplatzkarte/ApplicationTest.java
+#	new file:   app/src/main/AndroidManifest.xml
+#	new file:   app/src/main/java/de/spielplatzkarte/test/spielplatzkarte/IndexActivity.java
+#	new file:   app/src/main/java/de/spielplatzkarte/test/spielplatzkarte/NavigationDrawerFragment.java
+#	new file:   app/src/main/res/drawable-hdpi/drawer_shadow.9.png
+#	new file:   app/src/main/res/drawable-hdpi/ic_drawer.png
+#	new file:   app/src/main/res/drawable-hdpi/ic_launcher.png
+#	new file:   app/src/main/res/drawable-mdpi/drawer_shadow.9.png
+#	new file:   app/src/main/res/drawable-mdpi/ic_drawer.png
+#	new file:   app/src/main/res/drawable-mdpi/ic_launcher.png
+#	new file:   app/src/main/res/drawable-xhdpi/drawer_shadow.9.png
+#	new file:   app/src/main/res/drawable-xhdpi/ic_drawer.png
+#	new file:   app/src/main/res/drawable-xhdpi/ic_launcher.png
+#	new file:   app/src/main/res/drawable-xxhdpi/drawer_shadow.9.png
+#	new file:   app/src/main/res/drawable-xxhdpi/ic_drawer.png
+#	new file:   app/src/main/res/drawable-xxhdpi/ic_launcher.png
+#	new file:   app/src/main/res/layout/activity_index.xml
+#	new file:   app/src/main/res/layout/fragment_index.xml
+#	new file:   app/src/main/res/layout/fragment_navigation_drawer.xml
+#	new file:   app/src/main/res/menu/global.xml
+#	new file:   app/src/main/res/menu/index.xml
+#	new file:   app/src/main/res/values-v21/styles.xml
+#	new file:   app/src/main/res/values-w820dp/dimens.xml
+#	new file:   app/src/main/res/values/dimens.xml
+#	new file:   app/src/main/res/values/strings.xml
+#	new file:   app/src/main/res/values/styles.xml
+#	new file:   build.gradle
+#	new file:   gradle.properties
+#	new file:   gradle/wrapper/gradle-wrapper.jar
+#	new file:   gradle/wrapper/gradle-wrapper.properties
+#	new file:   gradlew
+#	new file:   gradlew.bat
+#	new file:   settings.gradle
+#	new file:   spielplatzkarte.iml
+#
+
